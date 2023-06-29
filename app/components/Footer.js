@@ -24,7 +24,7 @@ const Footer = () => {
                         <BsPinterest className='mx-2 text-xl' />
                     </div>
                     <h3 className='text-center w-full my-2 text-xs'>The content of this site is copyright-protected and is the property of Throwback Fashion.</h3>
-                    <span className="text-lg tracking-wide font-bold ml-3 lg:ml-6 w-full text-center">THROWBACK</span>
+                    <span className="text-sm font-bold my-2 ml-3 lg:ml-6 w-full text-center">THROWBACK</span>
                 </div>
             </footer>
         </div>
