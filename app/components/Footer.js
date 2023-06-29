@@ -24,7 +24,7 @@ const Footer = () => {
                         <AiFillYoutube className='mx-2 text-xl' />
                         <BsPinterest className='mx-2 text-xl' />
                     </div>
-                    <h3 className='text-center w-full my-2 text-xs'>The content of this site is copyright-protected and is the property of H & M Hennes & Mauritz AB.</h3>
+                    <h3 className='text-center w-full my-2 text-xs'>The content of this site is copyright-protected and is the property of Throwback Fashion.</h3>
                     <CgAdidas className="text-5xl font-thin ml-2 lg:ml-6 w-full text-center my-2" />
                 </div>
             </footer>
