@@ -1,5 +1,5 @@
 import React from "react";
-import { HiOutlineShoppingBag } from "react-icons/Hi";
+import { HiOutlineShoppingBag } from "react-icons/hi";
 
 const page = () => {
   return (
