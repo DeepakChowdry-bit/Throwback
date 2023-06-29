@@ -1,11 +1,10 @@
 'use client'
 import React from "react";
 import { useRef } from "react";
-import { CiSearch } from "react-icons/Ci";
-import { HiOutlineMenuAlt1 } from "react-icons/Hi";
-import { FaUserCircle } from "react-icons/Fa";
-import { GrClose } from "react-icons/Gr";
-import { AiOutlineArrowRight } from "react-icons/Ai";
+import { CiSearch } from "react-icons/ci";
+import { HiOutlineMenuAlt1 } from "react-icons/hi";
+import { FaUserCircle } from "react-icons/fa";
+import { GrClose } from "react-icons/gr";
 import Link from "next/link";
 
 const Navbar = () => {
@@ -52,7 +51,6 @@ const Navbar = () => {
                   className="text-sm font-semibold w-full  my-2 p-2 tracking-wider flex items-center justify-between"
                 >
                   SALE
-                  <AiOutlineArrowRight />
                 </p>
               </Link>
               <Link href={'/mens'}>
@@ -60,7 +58,6 @@ const Navbar = () => {
                   className="text-sm font-semibold w-full  my-2 p-2 tracking-wider flex items-center justify-between"
                 >
                   MEN
-                  <AiOutlineArrowRight />
                 </p>
               </Link>
               <Link href={'/womens'}>
@@ -68,7 +65,6 @@ const Navbar = () => {
                   className="text-sm font-semibold w-full  my-2 p-2 tracking-wider flex items-center justify-between"
                 >
                   WOMEN
-                  <AiOutlineArrowRight />
                 </p>
               </Link>
             </ul>
