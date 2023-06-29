@@ -1,7 +1,7 @@
 import React from 'react'
-import { AiOutlineArrowRight, AiOutlineTwitter, AiOutlineInstagram, AiFillYoutube } from "react-icons/Ai";
-import { BsPinterest } from "react-icons/Bs";
-import { CgAdidas } from "react-icons/Cg";
+import { AiOutlineArrowRight, AiOutlineTwitter, AiOutlineInstagram, AiFillYoutube } from "react-icons/ai";
+import { BsPinterest } from "react-icons/bs";
+import { CgAdidas } from "react-icons/cg";
 
 
 const Footer = () => {
