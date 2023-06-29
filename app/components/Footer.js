@@ -1,7 +1,6 @@
 import React from 'react'
 import { AiOutlineArrowRight, AiOutlineTwitter, AiOutlineInstagram, AiFillYoutube } from "react-icons/ai";
 import { BsPinterest } from "react-icons/bs";
-import { CgAdidas } from "react-icons/cg";
 
 
 const Footer = () => {
@@ -25,7 +24,7 @@ const Footer = () => {
                         <BsPinterest className='mx-2 text-xl' />
                     </div>
                     <h3 className='text-center w-full my-2 text-xs'>The content of this site is copyright-protected and is the property of Throwback Fashion.</h3>
-                    <CgAdidas className="text-5xl font-thin ml-2 lg:ml-6 w-full text-center my-2" />
+                    <span className="text-lg tracking-wide font-bold ml-3 lg:ml-6 w-full text-center">THROWBACK</span>
                 </div>
             </footer>
         </div>
