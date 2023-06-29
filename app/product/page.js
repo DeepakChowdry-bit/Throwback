@@ -9,7 +9,7 @@ const page = () => {
           <div className="flex flex-col mx-2 my-2">
             <img
               className="w-80 object-cover lg:w-60 lg:h-60"
-              src="/shir2.jpg"
+              src="/Shirt (2).jpg"
               alt=""
             />
             <h3 className="text-base font-semibold mt-1">Regular Fit Linen-blend shirt</h3>
